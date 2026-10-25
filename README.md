@@ -3,7 +3,7 @@
 Deploying an Active Directory domain controller in a virtual lab with VirtualBox, Windows Server 2022, and Windows 11 Pro, then joining a client to the domain and signing in with a domain account.
 
 **Date:** May–June 2026
-**Full write-up with screenshots:** [ADDC_Lab_KS.pdf](ADDC_Lab_KS.pdf)
+**Full write-up with screenshots:** [ADDC Lab KS.pdf](ADDC%20Lab%20KS.pdf)
 
 ## Objective
 
